@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { connect } from 'react-redux' // single property if writen like this { connect }
+import { connect } from 'react-redux'; // single property if written like this { connect }
 
 class BookDetail extends Component {
 
